@@ -1,1 +1,1 @@
-# Hello I made this an while ago and I decied to publish what I made feel free to modify it 
+This is a really basic Password Generator made in C# you can create unlimited amount of passwords for free
